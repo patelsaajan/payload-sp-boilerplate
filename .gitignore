@@ -5,6 +5,8 @@ node_modules
 .env
 .next
 .vercel
+bun.lock
 
 # Payload default media upload directory
 public/media/
+
